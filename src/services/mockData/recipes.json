@@ -1,6 +1,6 @@
 [
   {
-    "Id": 1,
+    "id": 1,
     "name": "Classic Business Look",
     "categoryId": 2,
     "category": "Formal Wear",
@@ -21,10 +21,10 @@
         "displayOrder": 11,
         "assetCount": 8
       }
-    ]
+]
   },
   {
-    "Id": 2,
+    "id": 2,
     "name": "Elegant Evening Dress",
     "categoryId": 3,
     "category": "Evening Wear",
@@ -45,10 +45,10 @@
         "displayOrder": 12,
         "assetCount": 10
       }
-    ]
+]
   },
   {
-    "Id": 3,
+    "id": 3,
     "name": "Casual Summer Outfit",
     "categoryId": 1,
     "category": "Casual Wear",
@@ -71,8 +71,8 @@
       }
     ]
   },
-  {
-    "Id": 4,
+{
+    "id": 4,
     "name": "Athletic Performance Set",
     "categoryId": 4,
     "category": "Sportswear",
@@ -89,7 +89,7 @@
     ]
   },
   {
-    "Id": 5,
+    "id": 5,
     "name": "Cocktail Party Dress",
     "categoryId": 3,
     "category": "Evening Wear",
@@ -117,10 +117,10 @@
         "displayOrder": 12,
         "assetCount": 8
       }
-    ]
+]
   },
   {
-    "Id": 6,
+    "id": 6,
     "name": "Weekend Casual",
     "categoryId": 1,
     "category": "Casual Wear",

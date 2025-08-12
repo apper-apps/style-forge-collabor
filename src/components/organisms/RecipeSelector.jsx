@@ -1,11 +1,11 @@
-import { useState, useEffect } from "react";
-import { cn } from "@/utils/cn";
+import React, { useEffect, useState } from "react";
+import ApperIcon from "@/components/ApperIcon";
 import RecipeCard from "@/components/molecules/RecipeCard";
-import Button from "@/components/atoms/Button";
 import Loading from "@/components/ui/Loading";
 import Error from "@/components/ui/Error";
-import ApperIcon from "@/components/ApperIcon";
+import Button from "@/components/atoms/Button";
 import { getRecipeCategories, getRecipesByCategory } from "@/services/api/recipeService";
+import { cn } from "@/utils/cn";
 
 const RecipeSelector = ({ 
   selectedRecipe, 
@@ -148,17 +148,17 @@ const RecipeSelector = ({
         </div>
       )}
 
-      {!loading && !error && recipes.length > 0 && (
+{!loading && !error && recipes.length > 0 && (
         <div>
           <h3 className="text-sm font-semibold text-gray-700 mb-3">
             {categories.find(c => c.id === selectedCategory)?.name} Recipes
           </h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-            {recipes.map(recipe => (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {recipes.map((recipe) => (
               <RecipeCard
-                key={recipe.id}
+                key={recipe.id || recipe.Id || `recipe-${Math.random()}`}
                 recipe={recipe}
-                selected={selectedRecipe?.id === recipe.id}
+                selected={selectedRecipe?.id === recipe.id || selectedRecipe?.Id === recipe.Id}
                 onClick={() => handleRecipeSelect(recipe)}
               />
             ))}
