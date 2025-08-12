@@ -1,0 +1,146 @@
+[
+  {
+    "Id": 1,
+    "name": "Classic Handbag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-handbags",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 2,
+    "name": "Designer Tote",
+    "url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-totes",
+    "displayOrder": 52,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 3,
+    "name": "Leather Clutch",
+    "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-clutches",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 4,
+    "name": "Crossbody Bag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-crossbody",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 5,
+    "name": "Mini Purse",
+    "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-mini",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 6,
+    "name": "Shoulder Bag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-shoulder",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Evening Bag",
+    "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-evening",
+    "displayOrder": 52,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 8,
+    "name": "Canvas Tote",
+    "url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-totes",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 9,
+    "name": "Structured Purse",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-handbags",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 10,
+    "name": "Satchel Bag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-satchel",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 11,
+    "name": "Beaded Clutch",
+    "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-clutches",
+    "displayOrder": 52,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 12,
+    "name": "Chain Bag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-chain",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 13,
+    "name": "Bucket Bag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-bucket",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 14,
+    "name": "Luxury Clutch",
+    "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-clutches",
+    "displayOrder": 52,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 15,
+    "name": "Hobo Bag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-hobo",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 16,
+    "name": "Top Handle Bag",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "bags-handbags",
+    "displayOrder": 52,
+    "isPremium": false,
+    "colorizable": true
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "name": "Classic White Shirt",
+    "url": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-shirts",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 2,
+    "name": "Black Bodysuit",
+    "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-bodysuits",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 3,
+    "name": "Silk Blouse",
+    "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-blouses",
+    "displayOrder": 10,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 4,
+    "name": "Basic Tee",
+    "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-tees",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 5,
+    "name": "Wrap Top",
+    "url": "https://images.unsplash.com/photo-1588716103562-8b9f4b7d6df7?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-wrap",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 6,
+    "name": "Tank Top",
+    "url": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-tanks",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Crop Top",
+    "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-crop",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 8,
+    "name": "Camisole",
+    "url": "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-camisoles",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 9,
+    "name": "Tube Top",
+    "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-tube",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 10,
+    "name": "Halter Top",
+    "url": "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-halter",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 11,
+    "name": "Designer Blouse",
+    "url": "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-blouses",
+    "displayOrder": 10,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 12,
+    "name": "Sports Bra",
+    "url": "https://images.unsplash.com/photo-1588716103562-8b9f4b7d6df7?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-sports",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 13,
+    "name": "Bandeau Top",
+    "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-bandeau",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 14,
+    "name": "Luxury Bodysuit",
+    "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-bodysuits",
+    "displayOrder": 10,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 15,
+    "name": "Off-Shoulder Top",
+    "url": "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "bases-off-shoulder",
+    "displayOrder": 10,
+    "isPremium": false,
+    "colorizable": true
+  }
+]

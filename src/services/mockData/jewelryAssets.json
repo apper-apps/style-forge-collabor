@@ -1,0 +1,164 @@
+[
+  {
+    "Id": 1,
+    "name": "Pearl Necklace",
+    "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-necklaces",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 2,
+    "name": "Diamond Earrings",
+    "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-earrings",
+    "displayOrder": 51,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 3,
+    "name": "Gold Bracelet",
+    "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-bracelets",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 4,
+    "name": "Silver Ring",
+    "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-rings",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 5,
+    "name": "Statement Necklace",
+    "url": "https://images.unsplash.com/photo-1588444837495-c6c4549e7502?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-necklaces",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 6,
+    "name": "Hoop Earrings",
+    "url": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-earrings",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Tennis Bracelet",
+    "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-bracelets",
+    "displayOrder": 51,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 8,
+    "name": "Cocktail Ring",
+    "url": "https://images.unsplash.com/photo-1574780379855-c90dc68a6ce8?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-rings",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 9,
+    "name": "Chain Necklace",
+    "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-necklaces",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 10,
+    "name": "Stud Earrings",
+    "url": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-earrings",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 11,
+    "name": "Charm Bracelet",
+    "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-bracelets",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 12,
+    "name": "Wedding Ring",
+    "url": "https://images.unsplash.com/photo-1574780379855-c90dc68a6ce8?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-rings",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 13,
+    "name": "Choker Necklace",
+    "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-necklaces",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 14,
+    "name": "Chandelier Earrings",
+    "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-earrings",
+    "displayOrder": 51,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 15,
+    "name": "Bangles Set",
+    "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-bracelets",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 16,
+    "name": "Signet Ring",
+    "url": "https://images.unsplash.com/photo-1574780379855-c90dc68a6ce8?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-rings",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 17,
+    "name": "Luxury Watch",
+    "url": "https://images.unsplash.com/photo-1594576662734-45fd18f9d972?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-watches",
+    "displayOrder": 51,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 18,
+    "name": "Drop Earrings",
+    "url": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "jewelry-earrings",
+    "displayOrder": 51,
+    "isPremium": false,
+    "colorizable": true
+  }
+]

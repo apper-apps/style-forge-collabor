@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "name": "Basic Colors",
+    "colors": [
+      "#FF006E",
+      "#FF3333", 
+      "#FFB800",
+      "#00C896",
+      "#0066FF",
+      "#8B5CF6"
+    ],
+    "isPremium": false
+  },
+  {
+    "Id": 2,
+    "name": "Pastels",
+    "colors": [
+      "#FFE1E6",
+      "#FFE1CC",
+      "#F0E6FF",
+      "#E1F5E1",
+      "#E1F0FF",
+      "#FFF0E6"
+    ],
+    "isPremium": false
+  },
+  {
+    "Id": 3,
+    "name": "Earth Tones",
+    "colors": [
+      "#8B4513",
+      "#DEB887",
+      "#CD853F",
+      "#F4A460",
+      "#BC8F8F",
+      "#D2691E"
+    ],
+    "isPremium": false
+  },
+  {
+    "Id": 4,
+    "name": "Premium Jewel Tones",
+    "colors": [
+      "#50C878",
+      "#B57EDC",
+      "#FF6B6B",
+      "#4ECDC4",
+      "#45B7D1",
+      "#F7DC6F"
+    ],
+    "isPremium": true
+  },
+  {
+    "Id": 5,
+    "name": "Luxury Metallics",
+    "colors": [
+      "#FFD700",
+      "#C0C0C0",
+      "#CD7F32",
+      "#E5E5E5",
+      "#FFA500",
+      "#B87333"
+    ],
+    "isPremium": true
+  },
+  {
+    "Id": 6,
+    "name": "Monochrome",
+    "colors": [
+      "#000000",
+      "#333333",
+      "#666666",
+      "#999999",
+      "#CCCCCC",
+      "#FFFFFF"
+    ],
+    "isPremium": false
+  }
+]

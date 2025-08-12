@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "name": "Fashion Model A",
+    "url": "https://images.unsplash.com/photo-1596003906949-67221c37965c?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-base",
+    "displayOrder": 2,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 2,
+    "name": "Fashion Model B",
+    "url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-base",
+    "displayOrder": 2,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 3,
+    "name": "Fashion Model C",
+    "url": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-base",
+    "displayOrder": 2,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 4,
+    "name": "Professional Model D",
+    "url": "https://images.unsplash.com/photo-1543965170-4c01a586684e?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-pro",
+    "displayOrder": 2,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 5,
+    "name": "Fashion Model E",
+    "url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-base",
+    "displayOrder": 2,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 6,
+    "name": "Elegant Model F",
+    "url": "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-pro",
+    "displayOrder": 2,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 7,
+    "name": "Classic Model G",
+    "url": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-base",
+    "displayOrder": 2,
+    "isPremium": false,
+    "colorizable": false
+  },
+  {
+    "Id": 8,
+    "name": "Premium Model H",
+    "url": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?w=300&h=450&fit=crop&crop=center",
+    "directoryId": "model-pro",
+    "displayOrder": 2,
+    "isPremium": true,
+    "colorizable": false
+  }
+]

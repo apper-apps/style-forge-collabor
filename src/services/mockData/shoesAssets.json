@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "name": "Classic Black Heels",
+    "url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-heels",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 2,
+    "name": "White Sneakers",
+    "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-casual",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 3,
+    "name": "Brown Boots",
+    "url": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-boots",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 4,
+    "name": "Stiletto Heels",
+    "url": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-heels",
+    "displayOrder": 50,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 5,
+    "name": "Canvas Sneakers",
+    "url": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-casual",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 6,
+    "name": "Ankle Boots",
+    "url": "https://images.unsplash.com/photo-1554834655-4c61d3a1d4c9?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-boots",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Platform Sandals",
+    "url": "https://images.unsplash.com/photo-1535043934128-cf0b28d52f95?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-sandals",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 8,
+    "name": "Oxford Shoes",
+    "url": "https://images.unsplash.com/photo-1534651833-8b78c73ce4f4?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-formal",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 9,
+    "name": "Red Bottom Heels",
+    "url": "https://images.unsplash.com/photo-1586556112280-ed756cf97da8?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-heels",
+    "displayOrder": 50,
+    "isPremium": true,
+    "colorizable": false
+  },
+  {
+    "Id": 10,
+    "name": "Running Shoes",
+    "url": "https://images.unsplash.com/photo-1546520180-5d7536db1d73?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-athletic",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 11,
+    "name": "Leather Boots",
+    "url": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-boots",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 12,
+    "name": "Strappy Sandals",
+    "url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-sandals",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 13,
+    "name": "Ballet Flats",
+    "url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-flats",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 14,
+    "name": "Designer Pumps",
+    "url": "https://images.unsplash.com/photo-1596702673131-4c085a59f11b?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-heels",
+    "displayOrder": 50,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 15,
+    "name": "Combat Boots",
+    "url": "https://images.unsplash.com/photo-1606888167643-16c78e9b4b92?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-boots",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 16,
+    "name": "Flip Flops",
+    "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-sandals",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 17,
+    "name": "Loafers",
+    "url": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-formal",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 18,
+    "name": "High-top Sneakers",
+    "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-casual",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 19,
+    "name": "Wedge Sandals",
+    "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-sandals",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 20,
+    "name": "Luxury Heels",
+    "url": "https://images.unsplash.com/photo-1605348532760-6753d2c43329?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-heels",
+    "displayOrder": 50,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 21,
+    "name": "Chelsea Boots",
+    "url": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-boots",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 22,
+    "name": "Pointed Flats",
+    "url": "https://images.unsplash.com/photo-1508735609737-5f8eae0b58c4?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-flats",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 23,
+    "name": "Athletic Trainers",
+    "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-athletic",
+    "displayOrder": 50,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 24,
+    "name": "Designer Sandals",
+    "url": "https://images.unsplash.com/photo-1617606002779-51d3d21ba0b6?w=200&h=200&fit=crop&crop=center",
+    "directoryId": "shoes-sandals",
+    "displayOrder": 50,
+    "isPremium": true,
+    "colorizable": true
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "name": "Long Straight",
+    "url": "https://images.unsplash.com/photo-1610216705422-caa3fcb6d158?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-long",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 2,
+    "name": "Pixie Cut",
+    "url": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-short",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 3,
+    "name": "Beach Waves",
+    "url": "https://images.unsplash.com/photo-1600486913747-55e5470d6f40?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-wavy",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 4,
+    "name": "Sleek Bob",
+    "url": "https://images.unsplash.com/photo-1594824956245-91d8ea6fe3d7?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-medium",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 5,
+    "name": "Curly Afro",
+    "url": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-curly",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 6,
+    "name": "High Ponytail",
+    "url": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-updo",
+    "displayOrder": 3,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Braided Crown",
+    "url": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-updo",
+    "displayOrder": 3,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 8,
+    "name": "Layered Medium",
+    "url": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-medium",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 9,
+    "name": "Textured Lob",
+    "url": "https://images.unsplash.com/photo-1493210977241-8316458662b5?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-medium",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 10,
+    "name": "Elegant Chignon",
+    "url": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-updo",
+    "displayOrder": 3,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 11,
+    "name": "Shaggy Layers",
+    "url": "https://images.unsplash.com/photo-1494790108755-2616c27c015d?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-medium",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 12,
+    "name": "Voluminous Curls",
+    "url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-curly",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 13,
+    "name": "Blunt Cut",
+    "url": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-short",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 14,
+    "name": "Hollywood Waves",
+    "url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-long",
+    "displayOrder": 3,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 15,
+    "name": "Messy Bun",
+    "url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&h=300&fit=crop&crop=center",
+    "directoryId": "hair-updo",
+    "displayOrder": 3,
+    "isPremium": false,
+    "colorizable": true
+  }
+]

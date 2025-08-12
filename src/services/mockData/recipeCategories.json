@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "name": "Casual Wear",
+    "description": "Everyday comfortable outfits",
+    "icon": "Coffee"
+  },
+  {
+    "Id": 2,
+    "name": "Formal Wear",
+    "description": "Professional and elegant attire",
+    "icon": "Briefcase"
+  },
+  {
+    "Id": 3,
+    "name": "Evening Wear",
+    "description": "Glamorous outfits for special occasions",
+    "icon": "Star"
+  },
+  {
+    "Id": 4,
+    "name": "Sportswear",
+    "description": "Active and athletic clothing",
+    "icon": "Zap"
+  }
+]

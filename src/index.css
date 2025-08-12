@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@import 'react-toastify/dist/ReactToastify.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Toast Overrides */
+.Toastify__toast-container {
+  width: 300px;
+  z-index: 9999;
+}
+
+.Toastify__toast {
+  background: white;
+  color: #1A1A1A;
+  border: 1px solid #E5E5E5;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  min-height: 48px;
+  padding: 12px 16px;
+}
+
+.Toastify__toast--success {
+  border-left: 4px solid #00C896;
+}
+
+.Toastify__toast--error {
+  border-left: 4px solid #FF3333;
+}
+
+.Toastify__toast--info {
+  border-left: 4px solid #0066FF;
+}
+
+.Toastify__toast--warning {
+  border-left: 4px solid #FFB800;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D4D4D4;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #A3A3A3;
+}
+
+/* Canvas Animation */
+.canvas-layer {
+  transition: opacity 200ms ease-out;
+}
+
+/* Selection Animation */
+@keyframes selection-pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+
+.selection-pulse {
+  animation: selection-pulse 0.2s ease-out;
+}

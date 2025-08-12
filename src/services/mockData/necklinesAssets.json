@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "name": "Round Neckline",
+    "url": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-round",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 2,
+    "name": "V-Neck",
+    "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-v",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 3,
+    "name": "Scoop Neck",
+    "url": "https://images.unsplash.com/photo-1588716103562-8b9f4b7d6df7?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-scoop",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 4,
+    "name": "Square Neckline",
+    "url": "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-square",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 5,
+    "name": "Boat Neck",
+    "url": "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-boat",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 6,
+    "name": "Off-Shoulder",
+    "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-off-shoulder",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Halter Neckline",
+    "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-halter",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 8,
+    "name": "Sweetheart Neckline",
+    "url": "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-sweetheart",
+    "displayOrder": 12,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 9,
+    "name": "High Neck",
+    "url": "https://images.unsplash.com/photo-1588716103562-8b9f4b7d6df7?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-high",
+    "displayOrder": 12,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 10,
+    "name": "Keyhole Neckline",
+    "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=150&h=150&fit=crop&crop=center",
+    "directoryId": "necklines-keyhole",
+    "displayOrder": 12,
+    "isPremium": true,
+    "colorizable": true
+  }
+]

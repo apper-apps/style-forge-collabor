@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "name": "Short Sleeves",
+    "url": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-short",
+    "displayOrder": 11,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 2,
+    "name": "Long Sleeves",
+    "url": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-long",
+    "displayOrder": 11,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 3,
+    "name": "3/4 Sleeves",
+    "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-34",
+    "displayOrder": 11,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 4,
+    "name": "Puff Sleeves",
+    "url": "https://images.unsplash.com/photo-1588716103562-8b9f4b7d6df7?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-puff",
+    "displayOrder": 11,
+    "isPremium": true,
+    "colorizable": true
+  },
+  {
+    "Id": 5,
+    "name": "Bell Sleeves",
+    "url": "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-bell",
+    "displayOrder": 11,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 6,
+    "name": "Cap Sleeves",
+    "url": "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-cap",
+    "displayOrder": 11,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Flutter Sleeves",
+    "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-flutter",
+    "displayOrder": 11,
+    "isPremium": false,
+    "colorizable": true
+  },
+  {
+    "Id": 8,
+    "name": "Bishop Sleeves",
+    "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=150&h=200&fit=crop&crop=center",
+    "directoryId": "sleeves-bishop",
+    "displayOrder": 11,
+    "isPremium": true,
+    "colorizable": true
+  }
+]
