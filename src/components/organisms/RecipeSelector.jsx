@@ -154,9 +154,9 @@ const RecipeSelector = ({
             {categories.find(c => c.id === selectedCategory)?.name} Recipes
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {recipes.map((recipe) => (
+{recipes.map((recipe, index) => (
               <RecipeCard
-                key={recipe.id || recipe.Id || `recipe-${Math.random()}`}
+                key={recipe.id || recipe.Id || `recipe-${index}`}
                 recipe={recipe}
                 selected={selectedRecipe?.id === recipe.id || selectedRecipe?.Id === recipe.Id}
                 onClick={() => handleRecipeSelect(recipe)}
